@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
 🚀 공부하는 중입니다 🚀
 </p>
 
