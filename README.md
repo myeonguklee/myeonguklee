@@ -1,5 +1,7 @@
-<div align=center>	
+<div align=center>
 ### Hi there 👋
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Djogoat&show_icons=true&theme=radical)
 
 <div align=center>	
