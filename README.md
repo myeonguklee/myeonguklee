@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-🚀 공부하는 중입니다 🚀
+🚀 공부하는 중입니다! 🚀
 </p>
 
 <div align=left>	
