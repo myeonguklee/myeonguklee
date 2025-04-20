@@ -21,7 +21,7 @@
 ### State Management
 
 ![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-#F76F30?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-#F76F30?style=for-the-badge&logo=zotero&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
@@ -33,8 +33,6 @@
 ### Style
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## 🎓 EXPERIENCE
@@ -53,21 +51,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmuk525)](https://solved.ac/lmuk525/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeonguklee&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeonguklee&show_icons=true&theme=dark)
-
-
-
-
-<!--
-**Djogoat/Djogoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
