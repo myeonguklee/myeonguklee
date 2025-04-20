@@ -21,7 +21,7 @@
 ### State Management
 
 ![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-#F76F30?style=for-the-badge&logo=zotero&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-F76F30?style=for-the-badge&logo=zotero&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
