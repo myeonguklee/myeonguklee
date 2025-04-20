@@ -21,7 +21,7 @@
 ### State Management
 
 ![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-#F76F30?style=for-the-badge&logo=기술스택아이콘&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-#F76F30?style=for-the-badge)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
@@ -51,9 +51,9 @@
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmuk525)](https://solved.ac/lmuk525/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeonguklee&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeonguklee&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeonguklee&show_icons=true&theme=dark)
+
 
 
 
